@@ -1,6 +1,4 @@
-**Tutorial:**
-
-**Instructions:**
+# Tutorial:
 - **play:**
    - At the start of the game the human player is forced to play a domino.
    - **Instructions:**
